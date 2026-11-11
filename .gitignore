@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+checkpoints/
+videos/
+*.npz
+*.pt
+*.mp4
+*.txt
+!requirements.txt

@@ -1,0 +1,7 @@
+# Tested on Python 3.11 (Windows), CPU / CUDA optional
+numpy>=1.24
+gymnasium>=0.26
+panda-gym==3.0.7
+pybullet==3.2.7
+torch>=2.0
+opencv-python>=4.8
